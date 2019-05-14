@@ -1,5 +1,5 @@
 html { background-color:#ccc;
-  background: url("https://picsum.photos/650/400?grayscale") no-repeat center center fixed; 
+  background-image: url("https://picsum.photos/650/400?grayscale") no-repeat center center fixed; 
     height: 100%;
   overflow: hidden;
   -webkit-background-size: cover;
