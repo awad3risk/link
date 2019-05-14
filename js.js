@@ -430,9 +430,9 @@ window.location.assign ("https://t.me/joinchat/AAAAAEZV2Wo_A9vCbE_hgw");
 if (window.location.pathname === "/") {
 window.location.assign ("https://t.me/joinchat/AAAAAEZV2Wo_A9vCbE_hgw");
 }
-if (window.location.pathname === "/dropbox") {
+if (window.location.pathname === "/link/dropbox") {
 window.location.assign ("https://www.dropbox.com/h");
 }
-if (window.location.pathname === "/dropbox") {
+if (window.location.pathname === "/link/dropbox") {
 window.location.assign ("https://www.dropbox.com/h");
 }
