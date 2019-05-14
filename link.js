@@ -436,3 +436,9 @@ window.location.assign ("https://www.dropbox.com/h");
 if (window.location.pathname === "/link/dropbox") {
 window.location.assign ("https://www.dropbox.com/h");
 }
+if (window.location.pathname === "/dropbox") {
+window.location.assign ("https://www.dropbox.com/h");
+}
+if (window.location.pathname === "/dropbox") {
+window.location.assign ("https://www.dropbox.com/h");
+}
